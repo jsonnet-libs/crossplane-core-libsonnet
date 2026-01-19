@@ -2,7 +2,7 @@
 
 This library is generated with [`k8s`](https://github.com/jsonnet-libs/k8s).
 
-- [crossplane/1.20](crossplane/1.20/README.md)
+- [crossplane/2.0](crossplane/2.0/README.md)
 - [function-patch-and-transform/0.7](function-patch-and-transform/0.7/README.md)
 - [function-cel-filter/0.1](function-cel-filter/0.1/README.md)
 - [function-status-transformer/0.4](function-status-transformer/0.4/README.md)
