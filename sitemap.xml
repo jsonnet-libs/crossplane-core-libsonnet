@@ -5,179 +5,179 @@
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1/compositeResourceDefinition/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1/compositeResourceDefinition/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1/composition/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1/composition/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1/compositionRevision/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1/compositionRevision/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1alpha1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1alpha1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1alpha1/environmentConfig/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1alpha1/managedResourceActivationPolicy/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1alpha1/usage/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1alpha1/managedResourceDefinition/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1beta1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1alpha1/usage/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1beta1/compositionRevision/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1beta1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1beta1/environmentConfig/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1beta1/environmentConfig/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/apiextensions/v1beta1/usage/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v1beta1/usage/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v2/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/apiextensions/v2/compositeResourceDefinition/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1/configuration/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1/function/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1/provider/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1/configuration/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1alpha1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1/function/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1alpha1/configuration/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1/provider/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1alpha1/provider/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1alpha1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1beta1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1alpha1/configuration/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/meta/v1beta1/function/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1alpha1/provider/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1beta1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/meta/v1beta1/function/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/configuration/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/configurationRevision/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/function/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/configuration/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/functionRevision/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/configurationRevision/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/provider/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/function/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1/providerRevision/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/functionRevision/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1alpha1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/provider/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1alpha1/controllerConfig/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1/providerRevision/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1beta1/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1beta1/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1beta1/deploymentRuntimeConfig/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1beta1/deploymentRuntimeConfig/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1beta1/function/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1beta1/function/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1beta1/functionRevision/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1beta1/functionRevision/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1beta1/imageConfig/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1beta1/imageConfig/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/pkg/v1beta1/lock/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/pkg/v1beta1/lock/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/util/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/util/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/util/connectionDetail/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/util/connectionDetail/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/util/patch/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/util/patch/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/util/resource/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/util/resource/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/1.20/util/version/</loc>
+         <loc>https://jsonnet-libs.github.io/crossplane-core-libsonnet/crossplane/2.0/util/version/</loc>
          <lastmod>2026-01-19</lastmod>
     </url>
     <url>
